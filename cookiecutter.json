@@ -1,7 +1,7 @@
 {
   "project_name": "model name",
   "repo_name": "{{ 'co-' + cookiecutter.project_name.lower().replace(' ', '_') }}",
-  "author_name": "Javier Daza",
+  "author_name": "javier.olivella",
   "description": "",
   "prediction": ""
 }
