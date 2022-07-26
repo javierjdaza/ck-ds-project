@@ -1,6 +1,6 @@
 {
   "project_name": "model name",
-  "repo_name": "{{ 'co_' + cookiecutter.project_name.lower().replace(' ', '_') }}",
+  "repo_name": "{{ 'co-' + cookiecutter.project_name.lower().replace(' ', '_') }}",
   "author_name": "Javier Daza",
   "description": "",
   "prediction": ""
