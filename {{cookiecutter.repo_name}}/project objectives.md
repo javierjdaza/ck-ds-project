@@ -29,4 +29,4 @@ This could be a world document where you describe what your project is all about
 
 ---
 
-#### 🥷 Author: {{cookiecutter.author_name + @ifood.com.co}}
+#### 🥷 Author: {{cookiecutter.author_name + "@ifood.com.co"}}
